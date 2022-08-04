@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^(idnex|contact|about|blog)$ $1.php [NC,L]
